@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(248, 220, 179);
+}
+
+li{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.redclass{
+    font-size: 30px;
+    color: darkred;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.orangeclass{
+    font-size: 30px;
+    color: rgb(139, 56, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yellowclass{
+    font-size: 30px;
+    color: rgb(139, 134, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.greenclass{
+    font-size: 30px;
+    color: rgb(46, 139, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.blueclass{
+    font-size: 30px;
+    color: rgb(0, 63, 139);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.purpleclass{
+    font-size: 30px;
+    color: rgb(9, 0, 139);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
